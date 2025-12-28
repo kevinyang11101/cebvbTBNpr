@@ -1,0 +1,2 @@
+# cebvbTBNpr
+本系统是一款基于Springboot+Vue的在线试题题库管理系统，采用MVC架构，集成了Spring、SpringBoot、MyBatis技术，并以MySQL为数据存储。主要用途是便捷管理试题库，提供简洁的Web操作界面，实现题目的高效增删改查，适用于各类人事管理场景，助力提高试题管理的规范性和效率。
